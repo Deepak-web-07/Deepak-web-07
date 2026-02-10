@@ -13,16 +13,35 @@ I’m a passionate full-stack developer with hands-on experience building scalab
 - **Auth:** JWT, bcrypt  
 - **Tools:** Git, GitHub, Postman, VS Code  
 
-## 📌 Projects
-- **SyncBoard** – Full-stack Kanban Task Manager (MERN, JWT)
-- **Car Rental Web App** – Booking platform with auth & Cloudinary
-- **AI Voice Interview Platform** – Real-time AI mock interviews
+## 🛠️ Languages and Tools
 
-## 🤝 Experience
-**Software Development Intern – Open Retro**  
-Worked in an Agile environment, contributed to frontend/backend tasks, bug fixes, and testing using Git.
+<p align="left">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+</p>
+
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: https://www.linkedin.com/in/deepak-kushwah07/
+- GitHub: https://github.com/Deepak-web-07
 - Email: dkushwah6578@gmail.com
